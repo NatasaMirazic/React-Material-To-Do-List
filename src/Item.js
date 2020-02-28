@@ -76,8 +76,8 @@ function Item(props) {
                 </Tooltip>
                 <ConfirmDialog 
                   isDialogOpened={isRestoreDialogOpened}
-                  closeDialog={closeRestoreDialog}
-                  changeItemState={restoreItem}
+                  onCloseDialog={closeRestoreDialog}
+                  onItemStateChanged={restoreItem}
                   title = "Restore task?"
                   content = "You are about to restore this task from Done tasks. Are you sure you want to make this change?"
                   actionButton = "Restore"
