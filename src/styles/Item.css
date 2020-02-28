@@ -1,0 +1,22 @@
+.restore-button:hover {
+  color: #00b33c;
+}
+
+.delete-button:hover {
+  color:#ff471a;
+}
+
+.card {
+  margin: 1rem 2rem;
+  border: 1px solid black;
+}
+
+.actions-container {
+  display: flex;
+}
+
+@media screen and (max-width: 576px) {
+  .dialog-container {
+    width: 100% !important;
+  }
+}
