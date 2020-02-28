@@ -25,3 +25,27 @@ This project is created with the ReactJS library. - https://reactjs.org/
 A library that is used for UI is Material UI React. - https://material-ui.com/
 
 Sorting is done by the SortableJS library. - https://github.com/SortableJS/react-sortablejs
+
+## Examples
+
+Here are images and gif examples of the application.
+
+###### Mobile device:
+
+<img src="https://github.com/NatasaMirazic/React-Material-To-Do-List/blob/master/src/images/Mobile.png" alt="Mobile" width="220" height="400">
+
+###### Desktop device:
+
+<img src="https://github.com/NatasaMirazic/React-Material-To-Do-List/blob/master/src/images/Desktop.png" alt="Desktop" width="600" height="350">
+
+###### Creating tasks and marking tasks as done (GIF):
+
+![Create and mark](https://github.com/NatasaMirazic/React-Material-To-Do-List/blob/master/src/images/Add%20and%20mark.gif)
+
+###### Delete and restore task (GIF):
+
+![Delete and restore](https://github.com/NatasaMirazic/React-Material-To-Do-List/blob/master/src/images/Delete%20and%20restore.gif)
+
+###### Sort tasks (GIF):
+
+![Sort](https://github.com/NatasaMirazic/React-Material-To-Do-List/blob/master/src/images/Sort.gif)
