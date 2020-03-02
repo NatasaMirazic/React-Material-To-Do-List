@@ -26,6 +26,10 @@ A library that is used for UI is Material UI React. - https://material-ui.com/
 
 Sorting is done by the SortableJS library. - https://github.com/SortableJS/react-sortablejs
 
+## Demo
+
+You can find working demo here: https://laughing-panini-8b6451.netlify.com/
+
 ## Examples
 
 Here are images and gif examples of the application.
